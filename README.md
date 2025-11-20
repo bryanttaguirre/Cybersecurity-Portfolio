@@ -3,7 +3,8 @@
 Welcome to my cybersecurity portfolio. This repository documents my learning journey, hands-on projects, and growing expertise in securing systems and networks. It highlights practical labs, tools, and personal projects that reflect my passion for protecting organizations and individuals from evolving threats.
 
 ## 🔗 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bryantaguirre-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bryantaguirre/)
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="20"/>](https://www.linkedin.com/in/bryantaguirre/)  
+**linkedin.com/in/bryantaguirre**
 
 
 🚀 What you’ll find:
