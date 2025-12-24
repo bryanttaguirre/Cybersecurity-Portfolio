@@ -74,7 +74,3 @@ This lab represents foundational work in my cybersecurity learning path. It is i
 
 ---
 
-## Author
-Bryant Aguirre  
-Computer Science & Cybersecurity  
-University at Buffalo
