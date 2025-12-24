@@ -17,6 +17,7 @@ While originally created several years ago, the architecture reflects core secur
 ## Network Topology
 ![Enterprise Network Diagram](diagram/network_topology.png)
 
+
 ---
 
 ## Architecture Summary
